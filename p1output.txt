@@ -1,1 +1,9 @@
+gcc -g p1original.c -lm
+./a.out
+enter the two points
+4
+3
+5
+2
+distance between two points 4.000000 3.000000 and 5.000000 2.000000 is 1.414214
 
